@@ -86,6 +86,8 @@ Repeat the above breakdown, but this time group schools based on a reasonable ap
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-## Description of Trends
 
-The last three dataframes illustrate some trends from these data that highlight how student scores vary based on certain school-level factors. School performance across math and reading scores is actually worse as the per student spending increases- this is surprising since funding is usually tied to better school performance. However, these data trend towards worse school performance (based on math and reading scores) as school size increases and among district schools. These trends are less surprising to those who have worked in education. 
+
+# Description of Trends
+
+The last three dataframes in this report illustrate some trends from these data that highlight how student scores vary based on certain school-level factors. School performance across math and reading scores is actually worse as the per student spending increases- this is surprising since funding is usually tied to better school performance. However, these data trend towards worse school performance (based on math and reading scores) as school size increases and among district schools. These trends are less surprising to those who have worked in education. 
