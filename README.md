@@ -1,6 +1,6 @@
 # pandas-challenge
 
-#### PyCitySchools
+### PyCitySchools
 Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
 Your final report should include each of the following:
@@ -88,4 +88,4 @@ Repeat the above breakdown, but this time group schools based on school type (Ch
 
 ## Description of Trends
 
-The last three dataframes illustrate some trends from these data that highlight how student scores vary based on certain school-level factors. School performance across math and reading scores is actually worse as the per student spending increases- this is surprising since funding is usually tied to better school performance. However, these data trend towards worse school performance based on math and reading levels as school size increases and among district schools. These trends are less surprising to those who have worked in education. 
+The last three dataframes illustrate some trends from these data that highlight how student scores vary based on certain school-level factors. School performance across math and reading scores is actually worse as the per student spending increases- this is surprising since funding is usually tied to better school performance. However, these data trend towards worse school performance (based on math and reading scores) as school size increases and among district schools. These trends are less surprising to those who have worked in education. 
